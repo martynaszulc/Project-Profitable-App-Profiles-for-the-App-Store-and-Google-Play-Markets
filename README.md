@@ -1,11 +1,6 @@
 # Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets
+## Introduction
+In this project, we will be working with a dataset of apps stored in Google Play Markets and App Store. Our goal for this project is to analyze data to help our developers understand what type of apps are likely to attract more users. The project comes from the DataQuest platform and is a guided project led from the Python Functions and Learn Jupyter Notebook.
 
-### PL
-Projekt wykonany na platformie DataQuest.
-
-W trakcie projektu oczyściliśmy dane i wykonaliśmy analizę. Praca została wykonana z wykorzystaniem języka Python. Celem było znalezienie najlepszego pomysłu na stworzenie nowej aplikacji na telefony komórkowe w systemie iOS oraz Android.
-
-### ENG
-A project done on the DataQuest platform.
-
-During the project we cleaned the data and performed the analysis. The work was done with the use of Python language. The goal was to find the best idea to create a new mobile app for iOS and Android.
+## Technologies
+The project was written in Python programming language.  Google Colab notepad was used.
